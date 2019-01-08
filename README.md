@@ -15,7 +15,7 @@ Before starting any of the assignments, create an account on [github.com](https:
 At the command line on your computer, execute the following command (but replace `userID` with your own GitHub user ID). This will download your new repository to your computer.
 
 ```
-git clone git@github.com:userID/BIO665.git
+git clone https://github.com/BYUBioinformatics/BIO665.git
 ```
 
 You should now see a directory called `BIO665` in your current working directory. Use the `ls` command to verify this.
