@@ -4,7 +4,9 @@
 
 The purpose of this assignment is to help you become more familiar with basic R coding.
 
-First make sure you have completed the instructions on the [homepage](/BYUBioinformatics/BIO665) for this repository.
+First, please install [R](https://www.r-project.org) and [RStudio Desktop](https://www.rstudio.com) (the open source edition) on your personal computer.
+
+Second, make sure you have completed the instructions on the [homepage](/BYUBioinformatics/BIO665) for this repository.
 
 Now use the `cd` command to change your working directory to your `BIO665` directory. Then create a directory called `Assignment-1` in that directory.
 
