@@ -1,4 +1,4 @@
-# BIO 365 - Assignment 1
+# BIO 665 - Assignment 1
 
 ### Introduction
 
