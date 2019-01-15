@@ -42,9 +42,8 @@ Read the instructions carefully for each problem listed below. For each problem,
     c. Height = 150 cm, weight = 110 kg
     d. Height = 182 cm, weight = 85 kg
 
-    Formula for calculating BMI is below:
-
-    ![BMI formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/a25f48e7bcb8270653f7b027e6dce80f0b6fcd90 "BMI formula)
+The formula for calculating BMI is below:
+![BMI formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/a25f48e7bcb8270653f7b027e6dce80f0b6fcd90 "BMI formula)
 
 ### Committing your code
 
