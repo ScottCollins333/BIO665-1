@@ -38,12 +38,14 @@ Read the instructions carefully for each problem listed below. For each problem,
 5. You are evaluating the health of a group of BYU students and measure the heights and weights of 4 students. Their heights (in centimeters) and weights (in meters) are listed below. Please calculate the Body Mass Index of each student and print these values in order, rounded to the nearest whole number. (Soon we will learn about using functions and loops, which will make such calculations easier. But for now, please hold off on using these.)
 
     a. Height = 190 cm, weight = 100 kg
+
     b. Height = 170 cm, weight = 120 kg
+    
     c. Height = 150 cm, weight = 110 kg
+    
     d. Height = 182 cm, weight = 85 kg
 
-The formula for calculating BMI is below:
-![BMI formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/a25f48e7bcb8270653f7b027e6dce80f0b6fcd90 "BMI formula)
+    You can find the formula for calculating BMI [here](https://en.wikipedia.org/wiki/Body_mass_index).
 
 ### Committing your code
 
