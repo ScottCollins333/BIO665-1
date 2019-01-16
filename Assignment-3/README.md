@@ -31,7 +31,7 @@ Read the instructions carefully for each problem listed below. For each problem,
 
     Assuming that she places 26 worms in all the boxes except the last one, how many worms will be in the last box?
 
-3. You are collecting data on javelina that live in the Mojave dessert. You capture three javelina, sedate them, and measure their weights. Then you realize that you only have a scale that measures the javelina in kilograms, but you need to report their weights in pounds. Their weights are 50.2, 89.4, and 44.9 kilograms. Write code to print their weights in pounds, rounded to 1 decimal place. (A kilogram is approximately equivalent to 2.205 pounds.) Make sure to print the units (in abbreviated form) for each of these measurements.
+3. You are collecting data on javelina that live in the Mojave desert. You capture three javelina, sedate them, and measure their weights. Then you realize that you only have a scale that measures the javelina in kilograms, but you need to report their weights in pounds. Their weights are 50.2, 89.4, and 44.9 kilograms. Write code to print their weights in pounds, rounded to 1 decimal place. (A kilogram is approximately equivalent to 2.205 pounds.) Make sure to print the units (in abbreviated form) for each of these measurements.
 
 4. You are on a different research trip, collecting data on hummingbirds that live in the Amazon rain forest. You capture three birds, sedate them, and measure their weights. This time your scale measures in pounds, but your Brazilian colleagues want the weights in kilograms. Their weights in kilograms are 0.125, 0.137, and 0.098. Write code that prints their weights in kilograms, rounded to 3 decimal places. Make sure to print the units (in abbreviated form) for each of these measurements.
 
