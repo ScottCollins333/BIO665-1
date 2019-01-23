@@ -30,16 +30,16 @@ Read the instructions carefully for each problem listed below. For each problem,
 
 8. Create a vector that shows the square root of the integers from 1 to 10. Print this vector.
 
-9. Renata thinks that she finds more treasure when she's had a mug of root beer than when she doesn't. To test this, she recorded how much treasure she found over 7 days without drinking any root beer, and then did the same over 7 days while drinking root beer. Here are her results:
+9. Renata thinks that she finds more treasure when she's had a mug of root beer than when she hasn't. To test this, she records how much treasure she found over 7 days without drinking any root beer, and then did the same over 7 days while drinking root beer. Here are her results:
 
 ```
 no_root_beer = c(0, 0, 1, 0, 1, 2, 2)
 root_beer = c(2, 0, 3, 1, 0, 3, 5)
 ```
 
-How much treasure did Renata find on average when she was *not* drinking root beer? What about when she was drinking root beer? First, print the average value for *no* root beer. Then print the average value for root beer (on a separate line).
+How much treasure did Renata find on average when she was *not* drinking root beer? What about when she *was* drinking root beer? First, print the average value for *no* root beer. Then print the average value for root beer (on a separate line).
 
-10. Using Renata's data again, create a new vector called `difference` that shows how much more treasure Renata found when she had *not* been drinking root beer and when she was drinking root beer. What was the mean, median, and standard deviation of the *difference*? Print each of these values on a separate line.
+10. Using Renata's data again, create a new vector called `difference` that shows how much more treasure Renata found when she had been drinking root beer than when she was not drinking root beer. What are the mean, median, and standard deviation of the *difference*? Print each of these values on a separate line.
 
 11. There's an old parable that goes something like this. A man does some work for a king and needs to be paid. Because the man loves rice (who doesn't?!), the man offers the king two different ways that he can be paid. You can either pay me 100 kilograms of rice, or, you can pay me as follows: get a chessboard and put one grain of rice in the top left square. Then put 2 grains of rice on the next square, followed by 4 grains on the next, 8 grains on the next...and so on, where the amount of rice doubles on each square, until you get to the last square. When you are finished, give me all the grains of rice that would (in theory) fit on the chessboard. The king, sensing that the man was an idiot for making such a stupid offer, immediately accepts the second option. He summons a chessboard, and begins counting out grains of rice one by one.... Assuming that there are 64 squares on a chessboard, calculate how many grains of rice the main will receive. *Hint: If you have trouble coming up with the answer, imagine how many grains are on the first, second, third and fourth squares, then try to create the vector that shows the number of grains on each square. Once you come up with that vector, you can easily calculate the final answer with the `sum()` function.* Print your answer.
 
