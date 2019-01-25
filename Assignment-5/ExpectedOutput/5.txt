@@ -1,0 +1,7 @@
+[1] "Go eat!"
+[1] "Go eat!"
+[1] "Don't eat!"
+[1] "Don't eat!"
+[1] "Take a nap!"
+[1] "Invalid input."
+[1] "Invalid input."
