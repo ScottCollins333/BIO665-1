@@ -28,7 +28,7 @@ Read the instructions carefully for each problem listed below. For each problem,
 
 8. Please write a function called `isAnyEven`. This function should accept a single argument: a vector of numeric values. The function should return a logical (Boolean) value that indicates whether *any* values in the vector are whole, even numbers. *Please do not use a `for` loop.*
 
-9. Please write a function called `howManySixes`. This function should accept a single argument: a vector of numeric values. Your function should calculate how many values are the number 6 in the vector. Your function should return that number. *Please do not use a `for` loop.* (Hint: One way to solve this problem is to use the `table` function. You can use that function to calculate the frequency of each unique value in the vector. It will return an object that behaves like a named vector.)
+9. Please write a function called `howManySixes`. This function should accept a single argument: a vector of numeric values. Your function should calculate how many values are the number 6 in the vector. Your function should return that number. *Please do not use a `for` loop.* (Hint: One way to solve this problem is to use the `table` function. You can use that function to calculate the frequency of each unique value in the vector. It will return an object that behaves like a named vector. Watch for the case where there are zero matches. Also make sure to remove the vector name(s) when you return the result. You can use the `unname` function for this.)
 
 ### Committing your code
 
