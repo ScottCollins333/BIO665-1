@@ -1,0 +1,5 @@
+[1] "rhino"        "elephant"     "lion"         "tiger"        "honey badger"
+[6] "cheetah"      "panda"       
+[1] "parrot"   "flamingo" "ostrich"  "falcon"   "emu"      "peacock" 
+[1] "shark"     "clownfish"
+[1] "mudpuppy"   "toad"       "newt"       "salamander" "mantella"  
