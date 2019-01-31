@@ -17,7 +17,8 @@ For this assignment, you will work with a leukemia dataset from a 1999 paper by 
 Later in the semester, you will learn more about how to read and manipulate data files. For now, please use the following code to read the data. **You will need to add this code to the top of each R script that you create for this assignment.**
 
 ```
-data = read.table("Golub_GeneExpression.tsv", sep="\t", header = TRUE, row.names = NULL)
+url = "https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-7/Golub_GeneExpression.tsv"
+data = read.table(url, sep="\t", header = TRUE, row.names = NULL)
 
 cancerType = factor(data$CancerType)
 data = data[,-1]
@@ -40,11 +41,13 @@ Please use R code answer the following questions. Print your answers.
 
 7. What is the maximum gene-expression value across all tumors for the gene labeled as `D64015_at`?
 
-8. Which gene is expressed most highly, on average, across all tumors? **Please do not use a `for` loop to answer this question.** Hint: The `apply` and `which` functions are your friends.
+8. What proportion of `AML` tumors have higher expression of the `D64015_at` gene than the average expression for this gene in `ALL` tumors?
 
-9. Calculate the average difference in expression between `AML` and `ALL` tumors for each gene. Which of these genes shows the largest, average difference? When calculating differences between `AML` and `ALL` tumors for a given gene, first calculate the average for `AML` tumors, then calculate the average for `ALL` tumors, then calculate the *absolute value* of the difference between these two averages. **Please do not use a `for` loop to answer this question.** It may be useful to use an anonymous function, together with the `apply` function.
+9. Which gene is expressed most highly, on average, across all tumors?
 
-10. What proportion of `AML` tumors have higher expression of the `D64015_at` gene than the average expression for this gene in `ALL` tumors? **Please do not use a `for` loop to answer this question.**
+10. [Optional] Calculate the average difference in expression between `AML` and `ALL` tumors for each gene. Which of these genes shows the largest, average difference? When calculating differences between `AML` and `ALL` tumors for a given gene, first calculate the average for `AML` tumors, then calculate the average for `ALL` tumors, then calculate the *absolute value* of the difference between these two averages.
+
+
 
 ### Committing your code
 
