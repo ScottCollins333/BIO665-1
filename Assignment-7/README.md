@@ -45,7 +45,7 @@ Please use R code answer the following questions. Print your answers.
 
 9. Which gene is expressed most highly, on average, across all tumors?
 
-10. [Optional] Calculate the average difference in expression between `AML` and `ALL` tumors for each gene. Which of these genes shows the largest, average difference? When calculating differences between `AML` and `ALL` tumors for a given gene, first calculate the average for `AML` tumors, then calculate the average for `ALL` tumors, then calculate the *absolute value* of the difference between these two averages.
+10. **[Optional]** Calculate the average difference in expression between `AML` and `ALL` tumors for each gene. Which of these genes shows the largest, average difference? When calculating differences between `AML` and `ALL` tumors for a given gene, first calculate the average for `AML` tumors, then calculate the average for `ALL` tumors, then calculate the *absolute value* of the difference between these two averages.
 
 
 
