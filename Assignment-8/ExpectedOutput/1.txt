@@ -1,0 +1,6 @@
+[1] hot  warm cold hot  warm warm
+Levels: cold hot warm
+[1] 1   One Won Wun Oun
+Levels: 1 One Oun Won Wun
+[1] cat     dog     hamster rabbit  snake   dog    
+Levels: cat dog hamster rabbit snake

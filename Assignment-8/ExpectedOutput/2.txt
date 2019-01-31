@@ -1,0 +1,6 @@
+[1] "puppy"
+[1] "kitten"
+[1] "foal"
+[1] "piglet"
+[1] "cub"
+[1] "hatchling"

@@ -1,0 +1,3 @@
+ [1] "ai" "au" "ea" "ee" "ei" "ia" "ie" "io" "iu" "ou" "ue"
+ [1] "ai" "au" "ea" "ee" "ei" "eo" "ia" "ie" "ii" "io" "ou" "ui"
+ [1] "ai" "au" "ea" "ee" "ei" "eu" "ia" "ie" "io" "oo" "ou" "ua" "ue" "ui"
