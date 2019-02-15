@@ -1,7 +1,7 @@
 out_file = "3.tsv"
 
 if (file.exists(out_file))
-  file.remove(out_file)
+  invisible(file.remove(out_file))
 
 suppressPackageStartupMessages(suppressWarnings(suppressMessages(source("3.R"))))
 
