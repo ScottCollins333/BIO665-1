@@ -10,7 +10,7 @@ Please use the *same* GitHub repository that you used for the first assignment. 
 
 *Please let me know if you see any errors in these problem descriptions or in the expected outputs. Thanks!*
 
-Read the instructions carefully for each problem listed below. For each problem, you should write an R script called `X.R` (but replace `X` with the problem number). For example, for problem 1, the R script would be named `1.R`. Store these scripts in the `Assignment-9` directory. The test script for each problem will invoke the function that you create for that problem; it will do this multiple times with different arguments to check your function.
+Read the instructions carefully for each problem listed below. For each problem, you should write an R script called `X.R` (but replace `X` with the problem number). For example, for problem 1, the R script would be named `1.R`. Store these scripts in the `Assignment-9` directory. The test script for each problem will invoke the script that you create for that problem.
 
 Before you start, make sure you have installed the `tidyverse` packages. We will use these heavily throughout the rest of the semester.
 
