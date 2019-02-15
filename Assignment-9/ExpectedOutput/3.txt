@@ -1,3 +1,4 @@
+[1] TRUE
 # A tibble: 6 x 3
   anemoneNumber startleResponse1 startleResponse2
           <dbl>            <dbl>            <dbl>
