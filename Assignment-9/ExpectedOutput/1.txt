@@ -1,0 +1,32 @@
+[1] 8000
+[1] 2
+[1] "character"
+[1] "character"
+# A tibble: 10 x 2
+   frySource survival
+   <chr>     <chr>   
+ 1 wild      survived
+ 2 wild      survived
+ 3 wild      survived
+ 4 wild      survived
+ 5 wild      survived
+ 6 wild      survived
+ 7 wild      survived
+ 8 wild      survived
+ 9 wild      survived
+10 wild      survived
+# A tibble: 10 x 2
+   frySource survival  
+   <chr>     <chr>     
+ 1 hatchery  not caught
+ 2 hatchery  not caught
+ 3 hatchery  not caught
+ 4 hatchery  not caught
+ 5 hatchery  not caught
+ 6 hatchery  not caught
+ 7 hatchery  not caught
+ 8 hatchery  not caught
+ 9 hatchery  not caught
+10 hatchery  not caught
+[1] 78
+[1] 4000
