@@ -65,19 +65,19 @@ location_data = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BI
 
 1. Use the `ggplot2` package to create a *histogram* of the `Occupancy` values across all locations. Set the histogram's `binwidth` value to `0.02`. Set the x-axis label to "Proportion of time present at site". Set the y-axis label to "Density of species-sites". Use the `theme_bw` theme.
 
-*Write a comment in your code that describes what you interpret from this graph.*
+    *Write a comment in your code that describes what you interpret from this graph.*
 
 2. Use the `ggplot2` package to create a [density plot](http://docs.ggplot2.org/0.9.3.1/geom_density.html) of the `Occupancy` values across all locations. Set the thickness (size) of the line to `2`. Set the x-axis label to "Proportion of time present at site". Set the y-axis label to "Density of species-sites". Use the `theme_bw` theme.
 
-*Write a comment in your code that describes what you interpret from this graph.*
+    *Write a comment in your code that describes what you interpret from this graph.*
 
 3. Use `ggplot2` to create a *bar plot* that shows the number of locations for which each species was predominately "core" or "transient" (`PredominantSpeciesType` variable). Label the x-axis as "Predominant Species Type". Label the y-axis as "Species Count". Use the `theme_bw` theme. Indicate that you want the colors inside the bars to be different depending on the predominant species type. You **do not** need to specify these colors explicitly. Rather, let `ggplot2` choose the color scheme. However, you will need to indicate that `ggplot2` should color the bars differently, based on predominant species type. Lastly, by default, `ggplot2` may include a legend in the graph; however, this is redundant with the labels under the bars. Please remove the legend from the graph (you may need to search the Web to learn how to do this).
 
-*Write a comment in your code that describes what you interpret from this graph.*
+    *Write a comment in your code that describes what you interpret from this graph.*
 
 4. Use `ggplot2` to make a [scatter plot](http://docs.ggplot2.org/current/geom_point.html) that compares the total number of species (x axis) identified at each location against NDVI (y axis) at the same locations. Color the points according to the predominant species type. Change the **size** of the points according to elevation. Use the `theme_dark` theme.
 
-*Write a comment in your code that describes what you interpret from this graph.*
+    *Write a comment in your code that describes what you interpret from this graph.*
 
 5. For this problem, you will need to install two additional R packages that make it easier to create maps in R. Please execute the following code on your computer but **do not include this installation code in your solution script**.
 
@@ -101,7 +101,7 @@ ggplot(locationData) +
   # Add your code here...
 ```
 
-*Write a comment in your code that describes what you interpret about core and transient species after seeing the map.*
+    *Write a comment in your code that describes what you interpret about core and transient species after seeing the map.*
 
 ### Committing your code
 
