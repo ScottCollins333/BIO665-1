@@ -81,25 +81,25 @@ location_data = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BI
 
 5. For this problem, you will need to install two additional R packages that make it easier to create maps in R. Please execute the following code on your computer but **do not include this installation code in your solution script**.
 
-```
-install.packages("maps")
-install.packages("mapproj")
-```
+    ```
+    install.packages("maps")
+    install.packages("mapproj")
+    ```
 
-At the top of your solution script, **you will need to load these libraries** (along with `tidyverse`).
+    At the top of your solution script, **you will need to load these libraries** (along with `tidyverse`).
 
-Use `ggplot2` to plot the predominant species type for each location on a map of the United States. Below is some code to help you get started. Use the `geom_point` function to add the data points. Color the points according to the predominant species type at each location. Hint: you will need to use an aesthetic within this function to specify the longitude (x) and latitude (y) coordinates and to specify the color. Set the x-axis label to "Longitude" and the y-axis label to "Latitude". Set the title of the graph to "Core vs. Transient Species in the US". As the reading suggested, use the `coord_quickmap` function to set the aspect ratios properly for the map. You do not need to set a theme for this problem (use the default theme).
+    Use `ggplot2` to plot the predominant species type for each location on a map of the United States. Below is some code to help you get started. Use the `geom_point` function to add the data points. Color the points according to the predominant species type at each location. Hint: you will need to use an aesthetic within this function to specify the longitude (x) and latitude (y) coordinates and to specify the color. Set the x-axis label to "Longitude" and the y-axis label to "Latitude". Set the title of the graph to "Core vs. Transient Species in the US". As the reading suggested, use the `coord_quickmap` function to set the aspect ratios properly for the map. You do not need to set a theme for this problem (use the default theme).
 
-```
-# Load the libraries first...
+    ```
+    # Load the libraries first...
 
-all_states <- map_data("state")
+    all_states <- map_data("state")
 
-ggplot(locationData) + 
-  geom_polygon(data=all_states, aes(x=long, y=lat, group = group), colour="black", fill="white") + 
-  expand_limits(x = all_states$Longitude, y = all_states$Latitude)
-  # Add your code here...
-```
+    ggplot(locationData) + 
+      geom_polygon(data=all_states, aes(x=long, y=lat, group = group), colour="black", fill="white") + 
+      expand_limits(x = all_states$Longitude, y = all_states$Latitude)
+      # Add your code here...
+    ```
 
     *Write a comment in your code that describes what you interpret about core and transient species after seeing the map.*
 
