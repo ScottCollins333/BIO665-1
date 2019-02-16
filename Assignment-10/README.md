@@ -59,8 +59,8 @@ For this exercise, you will use data from a paper by Coyle, et al. entitled, ["O
 Within your answer scripts, you can load these data files using code such as the following:
 
 ```
-occupancy_data = read_tsv("")
-location_data = read_tsv("")
+occupancy_data = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-10/Occupancy_Data.tsv")
+location_data = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-10/Location_Data.tsv")
 ```
 
 1. Use the `ggplot2` package to create a *histogram* of the `Occupancy` values across all locations. Set the histogram's `binwidth` value to `0.02`. Set the x-axis label to "Proportion of time present at site". Set the y-axis label to "Density of species-sites". Use the `theme_bw` theme.
