@@ -1,0 +1,45 @@
+$Drug_1
+[1] "CellLine_2"
+
+$Drug_2
+[1] "CellLine_10"
+
+$Drug_3
+[1] "CellLine_14"
+
+$Drug_4
+[1] "CellLine_3"
+
+$Drug_5
+[1] "CellLine_6"
+
+$Drug_6
+[1] "CellLine_12"
+
+$Drug_7
+[1] "CellLine_3"
+
+$Drug_8
+[1] "CellLine_16"
+
+$Drug_9
+[1] "CellLine_7"
+
+$Drug_10
+[1] "CellLine_1"
+
+$Drug_1
+[1] "CellLine_59"
+
+$Drug_2
+[1] "CellLine_67"
+
+$Drug_3
+[1] "CellLine_58"
+
+$Drug_4
+[1] "CellLine_42"
+
+$Drug_5
+[1] "CellLine_17"
+
