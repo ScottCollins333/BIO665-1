@@ -28,5 +28,6 @@
  8 hatchery  not caught
  9 hatchery  not caught
 10 hatchery  not caught
+[1] "wild" "wild" "wild" "wild" "wild"
 [1] 78
 [1] 4000
