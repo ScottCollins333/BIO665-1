@@ -1,0 +1,14 @@
+# A tibble: 1,102 x 3
+   swab.id     otu   count
+   <chr>       <chr> <dbl>
+ 1 Swab.162.02 taxa0     0
+ 2 Swab.162.03 taxa0     0
+ 3 Swab.162.04 taxa0     0
+ 4 Swab.162.05 taxa0     0
+ 5 Swab.162.06 taxa0     0
+ 6 Swab.162.07 taxa0     0
+ 7 Swab.162.08 taxa0     0
+ 8 Swab.162.09 taxa0     0
+ 9 Swab.162.11 taxa0     0
+10 Swab.162.12 taxa0     0
+# ... with 1,092 more rows

@@ -1,0 +1,4 @@
+# A tibble: 1 x 9
+  otu    count kingdom  phylum    class      order    family    genus   species
+  <chr>  <dbl> <chr>    <chr>     <chr>      <chr>    <chr>     <chr>   <chr>  
+1 taxa21 15003 Bacteria Proteoba… Alphaprot… Sphingo… Sphingom… Sphing… <NA>   

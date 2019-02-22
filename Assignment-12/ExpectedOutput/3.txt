@@ -1,0 +1,14 @@
+# A tibble: 58 x 1
+   swab.id    
+   <chr>      
+ 1 Swab.162.02
+ 2 Swab.162.03
+ 3 Swab.162.04
+ 4 Swab.162.05
+ 5 Swab.162.06
+ 6 Swab.162.07
+ 7 Swab.162.08
+ 8 Swab.162.09
+ 9 Swab.162.11
+10 Swab.162.12
+# ... with 48 more rows

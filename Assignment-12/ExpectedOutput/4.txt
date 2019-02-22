@@ -1,0 +1,16 @@
+# A tibble: 58 x 20
+   swab.id taxa0 taxa1 taxa5 taxa7 taxa9 taxa10 taxa11 taxa12 taxa13 taxa14
+   <chr>   <dbl> <dbl> <dbl> <dbl> <dbl>  <dbl>  <dbl>  <dbl>  <dbl>  <dbl>
+ 1 Swab.1…     0     0     0     0     0      9      3      0     12      0
+ 2 Swab.1…     0     0     0    11     0     47      1      0      3      0
+ 3 Swab.1…     0     0     0     0     0    123      3      1     11      0
+ 4 Swab.1…     0     0     0     5     0     73      2      0      5      0
+ 5 Swab.1…     0     1     0    37     0     50     10      0      4      0
+ 6 Swab.1…     0     0     0    11     0     32      3      1      5      0
+ 7 Swab.1…     0     0     0     3     0     69      5      0      0      0
+ 8 Swab.1…     0     0     0    14     0     90      4      0      4      0
+ 9 Swab.1…     0     1     0   148     0     70      6      1     11      0
+10 Swab.1…     0     0     0     0     0     41      1      0     26      0
+# ... with 48 more rows, and 9 more variables: taxa15 <dbl>, taxa16 <dbl>,
+#   taxa17 <dbl>, taxa18 <dbl>, taxa19 <dbl>, taxa20 <dbl>, taxa21 <dbl>,
+#   taxa22 <dbl>, taxa23 <dbl>

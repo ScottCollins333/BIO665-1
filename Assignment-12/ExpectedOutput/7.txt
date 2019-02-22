@@ -1,0 +1,22 @@
+# A tibble: 19 x 9
+   otu    count kingdom  phylum   class    order    family   genus   species   
+   <chr>  <dbl> <chr>    <chr>    <chr>    <chr>    <chr>    <chr>   <chr>     
+ 1 taxa0      0 Bacteria Proteob… Deltapr… Syntrop… Desulfo… <NA>    <NA>      
+ 2 taxa1      6 Bacteria Actinob… Actinob… Actinom… Coryneb… Coryne… <NA>      
+ 3 taxa10  5580 Bacteria Proteob… Alphapr… Sphingo… Sphingo… Sphing… <NA>      
+ 4 taxa11   495 Bacteria Bactero… Sphingo… Sphingo… Flexiba… Dyadob… <NA>      
+ 5 taxa12    38 Bacteria Proteob… Alphapr… Rhizobi… <NA>     <NA>    <NA>      
+ 6 taxa13   565 Bacteria Cyanoba… Chlorop… Chlorop… Treboux… <NA>    <NA>      
+ 7 taxa14     0 Bacteria ABY1_OD1 <NA>     <NA>     <NA>     <NA>    <NA>      
+ 8 taxa15     0 Bacteria Bactero… Sphingo… Sphingo… Sphingo… <NA>    <NA>      
+ 9 taxa16     5 Bacteria Bactero… Sphingo… Sphingo… Flexiba… Dyadob… <NA>      
+10 taxa17 10666 Bacteria Firmicu… Bacilli  Lactoba… Lactoba… Lactob… <NA>      
+11 taxa18     0 Bacteria Actinob… Actinob… Actinom… Coryneb… Coryne… Corynebac…
+12 taxa19    63 Bacteria Cyanoba… Chlorop… <NA>     <NA>     <NA>    <NA>      
+13 taxa20   150 Bacteria Bactero… Flavoba… Flavoba… Flavoba… <NA>    <NA>      
+14 taxa21 15003 Bacteria Proteob… Alphapr… Sphingo… Sphingo… Sphing… <NA>      
+15 taxa22   279 Bacteria Bactero… Sphingo… Sphingo… Flexiba… Dyadob… <NA>      
+16 taxa23    16 Bacteria Actinob… Actinob… Actinom… Nocardi… <NA>    <NA>      
+17 taxa5      0 Bacteria Cyanoba… S15B-MN… <NA>     <NA>     <NA>    <NA>      
+18 taxa7   2613 Bacteria SR1      <NA>     <NA>     <NA>     <NA>    <NA>      
+19 taxa9      2 Bacteria Proteob… Gammapr… Pseudom… Moraxel… Acinet… Acinetoba…

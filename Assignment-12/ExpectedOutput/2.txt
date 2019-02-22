@@ -1,0 +1,18 @@
+# A tibble: 15 x 4
+   swab.id     location location2 combo_location
+   <chr>       <chr>    <chr>     <chr>         
+ 1 Swab.162.59 west     low       westlow       
+ 2 Swab.162.60 west     high      westhigh      
+ 3 Swab.162.50 west     high      westhigh      
+ 4 Swab.162.57 west     low       westlow       
+ 5 Swab.162.02 south    high      southhigh     
+ 6 Swab.162.52 north    low       northlow      
+ 7 Swab.162.53 north    high      northhigh     
+ 8 Swab.162.03 south    low       southlow      
+ 9 Swab.162.04 south    high      southhigh     
+10 Swab.162.54 north    low       northlow      
+11 Swab.162.55 north    high      northhigh     
+12 Swab.162.51 east     low       eastlow       
+13 Swab.162.58 east     high      easthigh      
+14 Swab.162.49 east     low       eastlow       
+15 Swab.162.56 east     high      easthigh      

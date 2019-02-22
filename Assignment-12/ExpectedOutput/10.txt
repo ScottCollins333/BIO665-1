@@ -1,0 +1,6 @@
+# A tibble: 3 x 5
+  hurricane  year   mph Latitude Longitude
+  <chr>     <dbl> <dbl>    <dbl>     <dbl>
+1 Gilbert    1988   186     17.7      63.3
+2 Maria      2017   175     20.0      67.2
+3 Noel       2007    80     18.5      66.1

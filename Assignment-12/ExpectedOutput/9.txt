@@ -1,0 +1,14 @@
+# A tibble: 58 x 11
+   swabType swabGroup swabNumber  date    pd type  location location2 tier 
+   <chr>    <chr>     <chr>      <dbl> <dbl> <chr> <chr>    <chr>     <chr>
+ 1 Swab     162       02             4  20.7 wall  south    high      wall 
+ 2 Swab     162       03             4  21.5 wall  south    low       wall 
+ 3 Swab     162       04             4  23.3 wall  south    high      wall 
+ 4 Swab     162       05             4  20.7 floor f7       7         mid  
+ 5 Swab     162       06             4  23.0 floor f10      10        back 
+ 6 Swab     162       07             4  23.1 floor f8       8         mid  
+ 7 Swab     162       08             4  19.2 floor f9       9         mid  
+ 8 Swab     162       09             4  14.7 floor f12      12        back 
+ 9 Swab     162       11             4  16.8 chair c14      14        back 
+10 Swab     162       12             4  16.5 chair c11      11        back 
+# ... with 48 more rows, and 2 more variables: xcor <dbl>, ycor <dbl>

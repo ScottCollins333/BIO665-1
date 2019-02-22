@@ -1,0 +1,22 @@
+# A tibble: 19 x 2
+   otu    count
+   <chr>  <dbl>
+ 1 taxa0      0
+ 2 taxa1      6
+ 3 taxa10  5580
+ 4 taxa11   495
+ 5 taxa12    38
+ 6 taxa13   565
+ 7 taxa14     0
+ 8 taxa15     0
+ 9 taxa16     5
+10 taxa17 10666
+11 taxa18     0
+12 taxa19    63
+13 taxa20   150
+14 taxa21 15003
+15 taxa22   279
+16 taxa23    16
+17 taxa5      0
+18 taxa7   2613
+19 taxa9      2
