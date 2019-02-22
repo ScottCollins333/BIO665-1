@@ -1,0 +1,8 @@
+# A tibble: 5 x 2
+  continent gdpPercap
+  <chr>         <dbl>
+1 Africa        2194.
+2 Americas      7136.
+3 Asia          7902.
+4 Europe       14469.
+5 Oceania      18622.

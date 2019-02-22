@@ -1,0 +1,9 @@
+# A tibble: 142 x 2
+  country       lifeExp
+  <chr>           <dbl>
+1 Sierra Leone     36.8
+2 Afghanistan      37.5
+3 Angola           37.9
+4 Guinea-Bissau    39.2
+5 Mozambique       40.4
+# ... with 137 more rows

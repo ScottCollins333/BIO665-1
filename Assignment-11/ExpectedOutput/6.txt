@@ -1,0 +1,9 @@
+# A tibble: 142 x 4
+  country        start      end growth
+  <chr>          <dbl>    <dbl>  <dbl>
+1 Kuwait        160000  2505559  15.7 
+2 Jordan        607914  6053193   9.96
+3 Djibouti       63149   496374   7.86
+4 Saudi Arabia 4005677 27601038   6.89
+5 Oman          507833  3204897   6.31
+# ... with 137 more rows

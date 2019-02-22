@@ -1,0 +1,27 @@
+# A tibble: 24 x 6
+   country         year       pop continent lifeExp gdpPercap
+   <chr>          <dbl>     <dbl> <chr>       <dbl>     <dbl>
+ 1 United Kingdom  2007  60776238 Europe       79.4    33203.
+ 2 United Kingdom  2002  59912431 Europe       78.5    29479.
+ 3 United Kingdom  1997  58808266 Europe       77.2    26075.
+ 4 United Kingdom  1992  57866349 Europe       76.4    22705.
+ 5 United Kingdom  1987  56981620 Europe       75.0    21665.
+ 6 United Kingdom  1982  56339704 Europe       74.0    18232.
+ 7 United Kingdom  1977  56179000 Europe       72.8    17429.
+ 8 United Kingdom  1972  56079000 Europe       72.0    15895.
+ 9 United Kingdom  1967  54959000 Europe       71.4    14143.
+10 United Kingdom  1962  53292000 Europe       70.8    12477.
+11 United Kingdom  1957  51430000 Europe       70.4    11283.
+12 United Kingdom  1952  50430000 Europe       69.2     9980.
+13 United States   2007 301139947 Americas     78.2    42952.
+14 United States   2002 287675526 Americas     77.3    39097.
+15 United States   1997 272911760 Americas     76.8    35767.
+16 United States   1992 256894189 Americas     76.1    32004.
+17 United States   1987 242803533 Americas     75.0    29884.
+18 United States   1982 232187835 Americas     74.6    25010.
+19 United States   1977 220239000 Americas     73.4    24073.
+20 United States   1972 209896000 Americas     71.3    21806.
+21 United States   1967 198712000 Americas     70.8    19530.
+22 United States   1962 186538000 Americas     70.2    16173.
+23 United States   1957 171984000 Americas     69.5    14847.
+24 United States   1952 157553000 Americas     68.4    13990.
