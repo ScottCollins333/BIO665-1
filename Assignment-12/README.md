@@ -23,7 +23,9 @@ For this assignment, you will work with data from an article by Meadows, et al. 
 You can load these files into objects in R using code such as the following (perform these steps in each of your answer scripts):
 
 ```
-data <- read_csv("")
+swabs = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-12/swabs.tsv")
+counts = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-12/counts.tsv")
+taxa = read_tsv("https://raw.githubusercontent.com/BYUBioinformatics/BIO665/master/Assignment-12/taxa.tsv")
 ```
 
 ### Problem descriptions
