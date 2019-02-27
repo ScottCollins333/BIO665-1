@@ -36,7 +36,7 @@ Please use R code to answer the following questions. You may need to look at the
 
 1. Filter the full `swabs` data set so that it only includes samples of type "wall". Store these results in a new data object called `swabs2`. Sort `swabs2` by the x and y coordinates (`xcor` and `ycor` columns), in that order. Store these results in a new data object called `swabs3`. Create a new variable called `swabs4` that contains only the `swab.id`, `location`, and `location2` columns from `swabs3`. Create a new variable called `swabs5` that is a copy of `swabs4`. Add a column to `swabs5` that is a string concatenation of the `location` and `location2` columns (use the `stringr` package). Set the name of this new column to "combo_location". **Print all rows and columns of `swabs5`.**
 
-2. Write code that combines the steps from problem 2 into a into a **single command** using `magrittr` pipes. The output of this code should match what you obtained for problem 2.
+2. Write code that combines the steps from problem 1 into a into a **single command** using `magrittr` pipes. The output of this code should match what you obtained for problem 1.
 
 3. This problem and the next few problems build on each other. Create a new object called `swabsOfInterest` that selects the `swab.id` column from the original `swabs` object. Although this tibble is of little use on its own, it will be useful when joined with other data objects. **Please print `swabsOfInterest`** (using default print settings).
     
